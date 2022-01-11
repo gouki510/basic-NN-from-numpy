@@ -1,0 +1,23 @@
+mid_num: 8
+img_size: 28
+mid_dim: 50
+mid_dim2: 25
+p_noise: 0
+optim: SGD
+lr : 0.01
+epoch: 100
+data_path: small_dataset
+data_num: 1000
+lam : 0
+ord_idx : 2
+label_dic: 
+    Top: 0
+    Trouser: 1
+    Pullover: 2
+    Dress: 3
+    Coat: 4
+    Sandal: 5
+    Shirt: 6
+    Sneaker: 7
+    Bag: 8
+    Boot: 9
