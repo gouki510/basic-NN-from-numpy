@@ -47,11 +47,11 @@ label_dic: 　　　　　　　　　　　　     # ラベル
 python train.py
 ```
 You can get 1 image file(learning curve) and 1 binary file(weight file) as below.   
-![]()
+![](0.05_0.01_100.png)
 
 ### Infernece
 ```
 python infer.py -i [image dir path] -o [output dir path] -w [weight file path]
 ```
-You can get inferwnced images in output folder.  
+You can get inferwnced images in output folder.   
 ![](output/boot.png)
