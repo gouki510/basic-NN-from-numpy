@@ -54,4 +54,6 @@ You can get 1 image file(learning curve) and 1 binary file(weight file) as below
 python infer.py -i [image dir path] -o [output dir path] -w [weight file path]
 ```
 You can get inferwnced images in output folder.   
-![](output/boot.png)
+![](output/boot.png)  
+### Model Overview
+![](model.png)
